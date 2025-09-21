@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/lenovo/.m2/repository/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar;C:/Users/lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar;C:/Users/lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar;C:/Users/lenovo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar;C:/Users/lenovo/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.18.0/jackson-datatype-jsr310-2.18.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'D:/Whatsapp-Work/core-utils/src/main/java;D:/Whatsapp-Work/core-utils/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Whatsapp-Work/core-utils/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Core Utils 0.0.1 API'
+-use
+-version
+-windowtitle
+'Core Utils 0.0.1 API'
+com.github.pankaj111.coreutils.date
+C:\Users\lenovo\.m2\repository\org\apache\commons\commons-lang3\3.18.0\commons-lang3-3.18.0.jar = 1758389344536
+C:\Users\lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.0\jackson-databind-2.18.0.jar = 1758392016195
+C:\Users\lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.0\jackson-annotations-2.18.0.jar = 1758392016331
+C:\Users\lenovo\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.0\jackson-core-2.18.0.jar = 1758392016408
+C:\Users\lenovo\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.18.0\jackson-datatype-jsr310-2.18.0.jar = 1758392016262
+D:\Whatsapp-Work\core-utils\src\main\java = 1758389512547
+D:\Whatsapp-Work\core-utils\target\generated-sources\annotations = 1758393027306
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\allclasses-index.html = 1758393051022
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\allpackages-index.html = 1758393051025
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\element-list = 1758393050936
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\help-doc.html = 1758393051071
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\index-all.html = 1758393051060
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\index.html = 1758393051068
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\member-search-index.js = 1758393051030
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\module-search-index.js = 1758393051026
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\overview-tree.html = 1758393050977
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\package-search-index.js = 1758393051027
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\search.html = 1758393051063
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\tag-search-index.js = 1758393051036
+D:\Whatsapp-Work\core-utils\target\reports\apidocs\type-search-index.js = 1758393051029
