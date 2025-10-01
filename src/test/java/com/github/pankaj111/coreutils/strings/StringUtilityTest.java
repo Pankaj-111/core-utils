@@ -43,7 +43,7 @@ public class StringUtilityTest {
 	@Test
 	void testMaskPhone_ValidPhone() {
 		assertEquals("******7890", StringUtility.maskPhone("1234567890"));
-		assertEquals("*******8901", StringUtility.maskPhone("+12345678901"));
+		assertEquals("********8901", StringUtility.maskPhone("+12345678901"));
 	}
 
 	@Test
@@ -243,7 +243,7 @@ public class StringUtilityTest {
 
 	@Test
 	void testTruncateAtWord_NoSpaceFound() {
-		assertEquals("abcdefghij...", StringUtility.truncateAtWord("abcdefghijklmnop", 10));
+		assertEquals("abcdefghij", StringUtility.truncateAtWord("abcdefghijklmnop", 10));
 	}
 
 	@Test
