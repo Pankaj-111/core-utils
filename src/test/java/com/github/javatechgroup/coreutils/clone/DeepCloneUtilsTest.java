@@ -42,8 +42,6 @@ import java.util.concurrent.ConcurrentHashMap;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import com.github.javatechgroup.coreutils.clone.DeepCloneUtils;
-
 /**
  * Comprehensive unit tests for DeepCloneUtils
  */
