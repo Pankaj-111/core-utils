@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.Pankaj-111</groupId>
+	<groupId>com.github.javatechgroup</groupId>
 	<artifactId>core-utils</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
@@ -136,7 +136,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/Pankaj-111/core-utils</url>
+			<url>https://maven.pkg.github.com/javatechgroup/core-utils</url>
 		</repository>
 	</distributionManagement>
 </project>
