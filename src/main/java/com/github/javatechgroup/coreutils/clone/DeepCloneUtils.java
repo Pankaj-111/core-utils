@@ -1,4 +1,4 @@
-package com.github.pankaj111.coreutils.clone;
+package com.github.javatechgroup.coreutils.clone;
 
 import java.lang.reflect.Array;
 import java.lang.reflect.Constructor;

@@ -1,9 +1,11 @@
-package com.github.pankaj111.coreutils.date;
+package com.github.javatechgroup.coreutils.date;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.NullSource;
+
+import com.github.javatechgroup.coreutils.date.CalendarUtils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;

@@ -1,4 +1,4 @@
-package com.github.pankaj111.coreutils.date;
+package com.github.javatechgroup.coreutils.date;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotEquals;
@@ -18,6 +18,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.NullSource;
+
+import com.github.javatechgroup.coreutils.date.DateTimeUtils;
 
 /**
  * Unit tests for {@link DateTimeUtils}

@@ -1,4 +1,4 @@
-package com.github.pankaj111.coreutils.strings;
+package com.github.javatechgroup.coreutils.strings;
 
 import java.util.regex.Pattern;
 

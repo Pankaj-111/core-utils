@@ -1,4 +1,4 @@
-package com.github.pankaj111.coreutils.clone;
+package com.github.javatechgroup.coreutils.clone;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -41,6 +41,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import com.github.javatechgroup.coreutils.clone.DeepCloneUtils;
 
 /**
  * Comprehensive unit tests for DeepCloneUtils

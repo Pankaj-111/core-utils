@@ -1,4 +1,4 @@
-package com.github.pankaj111.coreutils.date;
+package com.github.javatechgroup.coreutils.date;
 
 import java.time.Instant;
 import java.time.LocalDate;
